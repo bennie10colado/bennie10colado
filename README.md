@@ -1,4 +1,4 @@
-### Hello, I'm a Bachelor's student in Computer Science, currently studying programming languages and their mathematical applications
+### I'm a Bachelor's student in Computer Science, currently studying programming languages and their mathematical applications
 
 <!--
 - 🔭 I’m currently working on ...
