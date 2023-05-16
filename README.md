@@ -9,9 +9,9 @@
   <br>
 
   - 🥋 My name is Benjamin
-  - 📚 I'm currently working as a calculus 1 tutor
+  - 📚 Currently, I was working as a calculus tutor 1
   - 🕹️ I'm currently studying programming languages, their mathematical applications and the engine Godot
-  - 📖 Computer science student: 4/9 
+  - 📖 Computer Science student: 4/9 
   - 📫 How to contact me: benj7100@gmail.com | Linkedin: João Guilherme Benjamin Alves de Rezende
 
 
