@@ -3,8 +3,8 @@
   <br>
   <div align="center">
     <a href="https://github.com/bennie10colado"></a>
-  <img height="180em" alt="Benjamin-Status" src="https://github-readme-stats.vercel.app/api?username=bennie10colado&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" alt="Benjamin-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennie10colado&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" alt="Benjamin-Status" src="https://github-readme-stats.vercel.app/api?username=bennie10colado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" alt="Benjamin-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennie10colado&layout=compact&langs_count=7&theme=dark"/>
   </div>
   <br>
 
