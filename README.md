@@ -8,9 +8,9 @@
   </div>
   <br>
 
-  - 🥋 My name is Benjamin
-  - 📚 Currently, I was working as a calculus 1 tutor
-  - 🕹️ I'm currently studying programming languages, their mathematical applications and the Godot engine
+  - 🥋 My name is Benjamin Rezende
+  - 📚 Currently, I am engaged in game projects while also participating in the Elife training program
+  - 🕹️ I'm currently studying programming languages, their mathematical applications, the Unity and Godot engine
   - 📖 Computer Science student: 4/9 
   - 📫 How to contact me: benj7100@gmail.com | Linkedin: João Guilherme Benjamin Alves de Rezende
 
