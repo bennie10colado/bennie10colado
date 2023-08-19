@@ -25,18 +25,18 @@
     <img alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img alt="Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
     <img alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+      <!-- Frameworks e Plataformas -->
+    <img alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img alt="Rails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg">
     <!-- Tecnologias Web -->
     <img alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     <img alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     <img alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
     <!-- Ferramentas de Desenvolvimento -->
     <img alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <!-- Frameworks e Plataformas -->
+    <!-- Desenvolvimento de Jogos -->
     <img alt="Godot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
     <img alt="Unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
-    <img alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img alt="Ionic" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg">
-    <img alt="Rails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg">
     <!-- Bancos de Dados e Servers Back-end -->
     <img alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     <img alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
