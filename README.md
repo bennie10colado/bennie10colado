@@ -14,7 +14,10 @@
   - 📖 Computer Science Student: 6/9;
   - 🚀 Currently interning at Buzzmonitor, where I am gaining teorical and practical experience in backend development and artificial intelligence;
   - 📫 How to contact me: benj7100@gmail.com | Linkedin: João Guilherme Benjamin Alves de Rezende;
-
+<p align="left">
+  <a href="www.linkedin.com/in/bennie10colado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edgar-vinicius-47b806124/" height="30" width="40" /></a>
+</p>
+</p>
 
 
   ![Snake animation](https://github.com/bennie10colado/bennie10colado/blob/output/github-contribution-grid-snake.svg)
