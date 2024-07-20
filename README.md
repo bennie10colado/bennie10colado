@@ -8,11 +8,12 @@
   </div>
   <br>
 
-  - 🥋 My name is Benjamin Rezende
-  - 📚 Currently, I am engaged in game projects while also participating in the Elife training program
-  - 🕹️ I'm currently studying programming languages, their mathematical applications, the Unity and Godot engine
-  - 📖 Computer Science Student: 6/9 
-  - 📫 How to contact me: benj7100@gmail.com | Linkedin: João Guilherme Benjamin Alves de Rezende
+  - 🥋 My name is João Guilherme B. A. Rezende;
+  - 📚 Currently, I am engaged in game development projects as part of the BCC Coworking research team at my college, focusing on software engineering;
+  - 🕹️ I'm currently studying programming languages, their mathematical applications, the Unity and Godot engine;
+  - 📖 Computer Science Student: 6/9;
+  - 🚀 Currently interning at Buzzmonitor, where I am gaining teorical and practical experience in backend development and artificial intelligence;
+  - 📫 How to contact me: benj7100@gmail.com | Linkedin: João Guilherme Benjamin Alves de Rezende;
 
 
 
