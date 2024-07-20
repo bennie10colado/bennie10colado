@@ -10,7 +10,7 @@
 
   - 🥋 My name is João Guilherme B. A. Rezende;
   - 📚 Currently, I am engaged in game development projects as part of the BCC Coworking research team at my college, focusing on software engineering and educational methods;
-  - 🕹️ I'm currently studying Unity, various programming languages, their mathematical applications, best practices in software engineering, and AI with a focus on machine learning and the use of large language models (LLMs);
+  - 🕹️ I'm currently studying Unity, programming languages, their mathematical applications, best practices in software engineering, and AI with a focus on machine learning and the use of large language models (LLMs);
   - 📖 Computer Science Student: 6/9;
   - 🚀 Currently interning at Buzzmonitor, where I am gaining teorical and practical experience in backend development and artificial intelligence;
   - 📫 How to contact me: benj7100@gmail.com | Linkedin: João Guilherme Benjamin Alves de Rezende;
