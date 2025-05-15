@@ -45,5 +45,7 @@
     <img alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     <img alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   
+  ![Meu GitHub 3D](./profile-3d-contrib/profile-night-rainbow.svg)
+
 </div>
 
