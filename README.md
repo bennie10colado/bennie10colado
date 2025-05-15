@@ -1,5 +1,9 @@
 # Hello There!
 
+![GitHub 3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
 <br>
 
 <div align="center">
@@ -30,18 +34,6 @@
 
 ---
 
-## GitHub 3D Contributions
-
-![GitHub 3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
-## Commits Snake Animation
-
-![Snake animation](https://github.com/bennie10colado/bennie10colado/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## Skills & Tools
 
 <div align="center">
@@ -67,3 +59,9 @@
   <img alt="MySQL"      src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"     width="40" height="30">
   <img alt="PostgreSQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="30">
 </div>
+
+## Commits Snake Animation
+
+![Snake animation](https://github.com/bennie10colado/bennie10colado/blob/output/github-contribution-grid-snake.svg)
+
+---
